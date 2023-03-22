@@ -6,3 +6,8 @@
 
 * PostgreSQL
 * Excel
+* Tableau
+
+### Tableau Dashboard
+
+[Visit Tableau Bashboard Here](https://public.tableau.com/app/profile/jayasooryan.tm/viz/CovidDashboard_16794880475510/Dashboard1?publish=yes)
